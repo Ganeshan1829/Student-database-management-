@@ -39,7 +39,7 @@ This application uses a Tkinter GUI for the user interface.
      ```
 
 5. **Access the Application**
-   - Open the application interface or test the backend functionality as described in your project.
+   - Open the application interface or test the backend functionality as described in  project.
 
 ---
 

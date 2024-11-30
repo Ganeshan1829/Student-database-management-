@@ -53,7 +53,7 @@ This application uses a Tkinter GUI for the user interface.
 ## Requirements
 - Python 3.x
 - MySQL
-- Required Python libraries (listed in `requirements.txt`)
+- Required Python libraries  
 
 ---
 
